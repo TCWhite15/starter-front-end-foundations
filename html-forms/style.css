@@ -20,11 +20,3 @@ p {
 main img {
   width: 100%;
 }
-header {
-  /* Sets background color to black. */
-  background-color: #000;
-  /* Adds 40 pixels of space under the header
-     so that the main content isn't so close
-     to the navigation. */
-  margin-bottom: 40px;
-}
